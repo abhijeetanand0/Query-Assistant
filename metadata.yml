@@ -1,0 +1,18 @@
+---
+:id: 212875530
+:submitters:
+- :name: Kartik Gulia
+  :email: cs1221076@iitd.ac.in
+- :name: Asmi Jayee
+  :email: ee3221756@ee.iitd.ac.in
+- :name: Subham Kumar
+  :email: mt1221823@iitd.ac.in
+- :name: Kamal Nayan
+  :email: ee3221195@iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-11-15 16:32:40.412544000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-11-15 08:32:40.412544000 Z
+:status: processed
+:score: 45.0
